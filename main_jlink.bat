@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\SEGGER\JLink\JLink.exe" -Device RSL10 -If SWD -AutoConnect 1 -Speed 50000
